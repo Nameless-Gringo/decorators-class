@@ -6,4 +6,4 @@
 
 ```pyinstaller guess_number.py --clean --noconfirm --onefile```
 
-### Собранный билд -> build/guess_number.exe
+### Собранный билд -> dist/guess_number.exe
